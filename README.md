@@ -17,6 +17,10 @@ In this project, we'll create a data model and Power BI report for Seven Sages B
 7. Create Required Measures: Develop six measures (formulas) for calculating Sales, Cost of Sales, and Gross Profit Margin in two different currencies as needed.
 8. Develop Visual Reports: Build a basic visual report using Power BI to present and interpret the analyzed data.
 
+### Building relationships:
+<img width="830" alt="image" src="https://github.com/sunandhini96/Power_BI_Projects_Udacity/assets/63030539/7807a16a-5a2b-4a97-9952-84e8f7a44f66">
+
+
 # Output : 
 ### Table 1: Sales and GPM : 
 <img width="738" alt="image" src="https://github.com/sunandhini96/Power_BI_Projects_Udacity/assets/63030539/c42d04e0-dd88-499c-af79-14fd2a1f2226">
