@@ -26,6 +26,7 @@ In this project, we'll create a data model and Power BI report for Seven Sages B
 <img width="738" alt="image" src="https://github.com/sunandhini96/Power_BI_Projects_Udacity/assets/63030539/c42d04e0-dd88-499c-af79-14fd2a1f2226">
 
 ### Table 2: Gross Profit and Unit Sales:
-<img width="622" alt="image" src="https://github.com/sunandhini96/Power_BI_Projects_Udacity/assets/63030539/da1a8f73-4692-42ec-b852-0bff1ae3fdfa">
+<img width="578" alt="image" src="https://github.com/sunandhini96/Power_BI_Projects_Udacity/assets/63030539/cf439766-b4f1-4f4b-9bf3-045ca5bcf4fa">
+
 
 
