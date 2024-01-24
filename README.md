@@ -1,6 +1,7 @@
 # Data Visualization using Power_BI.
 
-# Task: Create a Data Model for Seven Sages Brewing Company
+# Project 1: Creating a data model for Seven Sages Brewing Company (SSBC):
+
 In this project, we'll create a data model and Power BI report for Seven Sages Brewing Company that combines information from all over the company. Our data model will make it possible for the company's CFO to quickly review and analyze what beers sell well and which ones generate the highest profitability.
 
 # Steps follows the following diagram:
@@ -28,6 +29,22 @@ In this project, we'll create a data model and Power BI report for Seven Sages B
 
 ### Table 2: Gross Profit and Unit Sales:
 <img width="578" alt="image" src="https://github.com/sunandhini96/Power_BI_Projects_Udacity/assets/63030539/cf439766-b4f1-4f4b-9bf3-045ca5bcf4fa">
+
+# Project 2: Building a Power BI report for Waggle:
+
+Dataset : A startup that makes smart devices for pets.Recently, Waggle has been thrilled by the success of their new Lapdog device, a fitness collar that lets owners track their dog’s steps, alerts them when it’s time for a walk, and even repels fleas! Our task for creating the Power BI report that tells the story of how the Lapcat data compares to findings from the dog collar Lapdog devices.
+
+## Output :
+### Report 1: Lap Dog vs. Lap Cat Visualization:
+<img width="919" alt="image" src="https://github.com/sunandhini96/Power_BI_Projects_Udacity/assets/63030539/69af8dde-e6de-407c-9e78-81676bb764b6">
+
+### Report 2: Pets Insights:
+<img width="922" alt="image" src="https://github.com/sunandhini96/Power_BI_Projects_Udacity/assets/63030539/acaf3d72-b1cf-450b-9973-9e0bc461d1d4">
+
+
+### Report 3: Family Insights:
+<img width="920" alt="image" src="https://github.com/sunandhini96/Power_BI_Projects_Udacity/assets/63030539/cbda10ec-75ee-46a0-a8b6-93f060e48714">
+
 
 
 
