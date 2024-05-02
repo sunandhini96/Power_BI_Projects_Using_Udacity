@@ -1,4 +1,4 @@
-# Data Visualization using Power_BI.
+# Data Visualization using Power_BI:
 
 # Project 1: Creating a data model for Seven Sages Brewing Company (SSBC):
 
